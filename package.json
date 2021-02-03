@@ -1,0 +1,24 @@
+{
+  "name": "shadowizaredz",
+  "version": "1.0.0",
+  "description": "add awsome styles for your images ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajmohanghantasala/shadowizard.git"
+  },
+  "keywords": [
+    "shadows",
+    "for",
+    "image"
+  ],
+  "author": "rajmohan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajmohanghantasala/shadowizard/issues"
+  },
+  "homepage": "https://github.com/rajmohanghantasala/shadowizard#readme"
+}
